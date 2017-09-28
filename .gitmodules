@@ -1,0 +1,3 @@
+[submodule "SparkFun_ESP8266_AT_Arduino_Library"]
+	path = SparkFun_ESP8266_AT_Arduino_Library
+	url = https://github.com/MixaBot/SparkFun_ESP8266_AT_Arduino_Library.git
